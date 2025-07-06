@@ -80,19 +80,6 @@ GOOGLE_API_KEY = "your-key-here"
 streamlit run app.py
 ```
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots or demo GIFs here to show how the app looks)*
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgments
 
@@ -102,6 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 * [ReportLab](https://www.reportlab.com/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 
----
 
-> Made with 💡 using LLMs to simplify resume building.
