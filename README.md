@@ -43,20 +43,13 @@ The **Gemini Multi-Template Resume Builder** is an AI-powered web application bu
 
 ## 📦 Setup Instructions
 
-### 1. Clone the repository
-
-```bash
-https://github.com/your-username/gemini-resume-builder.git
-cd gemini-resume-builder
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Configure your API key
+### 2. Configure your API key
 
 Set your **Google API Key** as an environment variable or in `.streamlit/secrets.toml`
 
